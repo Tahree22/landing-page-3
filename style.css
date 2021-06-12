@@ -57,10 +57,6 @@ h2{
     padding-right: 30px;   
 }
 
-.nav{
-    
-}
-
 .navigation li{
     list-style: none;
 }
@@ -188,3 +184,7 @@ ul {
     width: 300px;
 }
 
+.testimonials{
+    background:hsl(218, 28%, 13%);
+    height: 80vh;
+}
